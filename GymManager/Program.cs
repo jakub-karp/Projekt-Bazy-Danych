@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace GymManager
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {
-            Console.WriteLine("Tesy");
-
+            
 
         }
         

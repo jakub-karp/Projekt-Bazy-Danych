@@ -11,6 +11,8 @@ namespace GymManager
         static void Main()
         {
             Console.WriteLine("Tesy");
+
+
         }
         
     }

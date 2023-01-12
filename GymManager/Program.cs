@@ -8,6 +8,10 @@ namespace GymManager
 {
     internal class Program
     {
-
+        static void Main()
+        {
+            Console.WriteLine("Tesy");
+        }
+        
     }
 }
